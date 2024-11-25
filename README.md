@@ -2,7 +2,7 @@
 
 Datasets
 ------------------
-Available: <a href="链接: https://pan.baidu.com/s/1ba64pFyNGBatuVbhjwIdCA?pwd=qg4d"><strong>DOWNLOAD»</strong></a>
+Available: <a href="https://pan.baidu.com/s/1ba64pFyNGBatuVbhjwIdCA?pwd=qg4d"><strong>DOWNLOAD»</strong></a>
 
 Requirements
 ------------------
