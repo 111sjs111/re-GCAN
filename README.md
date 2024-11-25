@@ -4,7 +4,7 @@ Datasets
 ------------------
 Available: <a href="https://pan.baidu.com/s/1ba64pFyNGBatuVbhjwIdCA?pwd=qg4d"><strong>DOWNLOAD»</strong></a>
 
-解压后放置于main.py同一路径下
+解压后保存在main.py同一路径下
 
 Requirements
 ------------------
